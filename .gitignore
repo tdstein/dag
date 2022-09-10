@@ -1,0 +1,8 @@
+/bin/
+/htmlcov/
+/include/
+/lib/
+/.coverage
+/.idea
+/__pycache__
+/pyvenv.cfg
